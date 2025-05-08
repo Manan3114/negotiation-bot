@@ -75,10 +75,6 @@ Once the application is running, you will be able to interact with the AI chatbo
 
 ---
 
-## **Demo**
-You can view a demo of the AI chatbot in action on YouTube: https://www.youtube.com/watch?v=L8s-baPNPQI
-
----
 
 ## **Configuration**
 - **Product Features**: You can modify the product name, base price, and features in the `Product` class in `app.py`.
@@ -97,14 +93,5 @@ You can view a demo of the AI chatbot in action on YouTube: https://www.youtube.
 
 ## **Contributing**
 Contributions are welcome! If you find any issues or want to improve the project, feel free to submit a pull request. Please make sure your changes are properly documented and tested.
-
----
-
-## **Contact**
-If you have any questions or feedback, feel free to reach out:
-
-- **Email**: vishnoiayush39@gmail.com
-- **Linkedin**: https://www.linkedin.com/in/ayush-vishnoi-/
-- **YouTube Demo**: https://www.youtube.com/watch?v=L8s-baPNPQI
 
 ---
